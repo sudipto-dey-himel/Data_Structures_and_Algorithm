@@ -32,7 +32,7 @@ int main()
     cout << "Enter the number of Edges :: ";
     cin >> edges;
 
-    cout << "Enter the vertices : " << endl;
+    cout << "Enter Edges : " << endl;
     vector<vector<int>> graph(vertices);
     for (int i = 0; i < edges; i++)
     {
