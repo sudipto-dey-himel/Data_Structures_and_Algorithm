@@ -43,15 +43,17 @@ int main()
 }
 
 /*INPUT : 
-Enter the number of Activities :: 3
+Enter the number of Activities :: 6
 Enter the Activities :: 
-10 2
-21 1
-9 3
-
-OUTPUT : 
+5 9
+1 2
+3 4
+0 6
+5 7
+8 9
 After Activity Selection Sort :: 
-21 1
-10 2
-9 3
+1 2
+3 4
+5 7
+8 9
 */
